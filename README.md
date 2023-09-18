@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-istyle.inc @cosme Software Engineer
+istyle.inc Software Engineer
+
+@cosme beauty tech
 
 [GitHub(previous)](https://github.com/ozbannot) 
 
