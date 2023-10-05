@@ -2,7 +2,7 @@
 
 istyle.inc Software Engineer
 
-@cosme
+@cosme beauty tech
 
 [GitHub(previous)](https://github.com/ozbannot) 
 
